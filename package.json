@@ -1,0 +1,36 @@
+{
+  "name": "joyui",
+  "version": "1.0.0",
+  "description": "vue component, improved daisyui",
+  "main": "index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "dev": "vite --port 4212 --host 0.0.0.0"
+  },
+  "keywords": [
+    "ui",
+    "daisy",
+    "tailwind",
+    "joyui",
+    "joy",
+    "vue",
+    "vuejs"
+  ],
+  "author": "swotex",
+  "license": "ISC",
+  "peerDependencies": {
+    "daisyui": "^4.12.22"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "autoprefixer": "^10.4.20",
+    "daisyui": "^4.12.22",
+    "tailwindcss": "^3.4.17",
+    "vite": "^6.0.3"
+  },
+  "dependencies": {
+    "vue": "^3.5.13"
+  }
+}
