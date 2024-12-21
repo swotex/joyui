@@ -1,4 +1,4 @@
-import test from './components/test.vue';
+import LabelOn from './components/LabelOn.vue';
 
-export { test }; // Export nommé
-export default { test }; // Export par défaut
+export { LabelOn }; // Export nommé
+export default { LabelOn }; // Export par défaut
